@@ -1,0 +1,28 @@
+name: ilovetravel
+favicon: null
+layout_spectrum: 0.6113664037548006
+typography_spectrum: 0.912430364638567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2776505509391427
+  lightness: 0.26116109755821526
+  saturation: 0.6861650082282722
+  rhythmicContrast: 0.486643657553941
+purpose: []
